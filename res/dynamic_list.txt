@@ -1,5 +1,5 @@
 [{
-	"class_name" : "DefaultFragment",
-	"package_name" : "com.sina.hotweibo.dynamic.fragment_external",
-	"remote_url" : "https://github.com/fubody/DynamicResources/raw/master/res/HotWeiboResource.apk"
+	"class_name" : "FragmentSetting",
+	"package_name" : "com.sina.hotweiboattach.ui.fragment",
+	"remote_url" : "https://github.com/fubody/DynamicResources/raw/master/res/HotWeiboAttach.apk"
 }]
