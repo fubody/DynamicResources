@@ -1,5 +1,20 @@
-[{
-	"class_name" : "FragmentSetting",
-	"package_name" : "com.sina.hotweiboattach.ui.fragment",
-	"remote_url" : "https://github.com/fubody/DynamicResources/raw/master/res/HotWeiboAttach.apk"
-}]
+[
+{
+	"class_name" : "com.sina.weibo.MoreItemsFragment",
+	"entity_tag" : "fragment_blue",
+	"entity_version" : "1.0",
+	"remote_url" : "http://cu1.sina.cn/tv/soft/weibo/fragment_blue.apk"
+},
+{
+	"class_name" : "com.sina.weibo.MoreItemsFragment",
+	"entity_tag" : "fragment_green",
+	"entity_version" : "1.0",
+	"remote_url" : "http://cu1.sina.cn/tv/soft/weibo/fragment_green.apk"
+},
+{
+	"class_name" : "com.sina.weibo.MoreItemsFragment",
+	"entity_tag" : "fragment_gray",
+	"entity_version" : "1.0",
+	"remote_url" : "http://cu1.sina.cn/tv/soft/weibo/fragment_gray.apk"
+},
+]
