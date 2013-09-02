@@ -2,11 +2,11 @@
 {
 	"class_name" : "com.sina.weibo.MoreItemsFragment",
 	"entity_tag" : "更多界面",
-	"remote_url" : "http://cu1.sina.cn/tv/soft/weibo/fragment_blue.apk"
+	"remote_url" : "https://github.com/fubody/DynamicResources/raw/master/res/dynamic_more"
 },
 {
 	"class_name" : "com.sina.weibo.HomeListActivity",
 	"entity_tag" : "主feed界面",
-	"remote_url" : "http://cu1.sina.cn/tv/soft/weibo/fragment_green.apk"
+	"remote_url" : "https://github.com/fubody/DynamicResources/raw/master/res/dynamic_feed"
 }
 ]
