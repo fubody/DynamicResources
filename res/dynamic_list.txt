@@ -21,6 +21,6 @@
 	"class_name" : "com.sina.weibo.HomeListActivity",
 	"entity_tag" : "activity_hot_weibo",
 	"entity_version" : "1.0",
-	"remote_url" : "http://cu1.sina.cn/tv/soft/weibo/fragment_gray.apk"
+	"remote_url" : "https://github.com/fubody/DynamicResources/raw/master/res/external.apk"
 }
 ]
