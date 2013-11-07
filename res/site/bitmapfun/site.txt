@@ -3,12 +3,12 @@
   "files": [
     {
       "id": "lib.bitmapfun.20130629.1",
-      "md5": "9aea48a385e68301b78f3c2788735206",
+      "md5": "aacd75c8b2f641d3247ca05d594b5ca0",
       "url": "https://github.com/fubody/DynamicResources/raw/master/res/site/bitmapfun/lib.bitmapfun.apk"
     },
     {
       "id": "sample.bitmapfun.20130629.1",
-      "md5": "e9498edcaf2b138af84ef7da59483811",
+      "md5": "3c9e08697e7b1dac108d8280d5cb2160",
       "deps": ["lib.bitmapfun.20130629.1"],
       "url": "https://github.com/fubody/DynamicResources/raw/master/res/site/bitmapfun/sample.bitmapfun.apk"
     }
