@@ -1,2 +1,12 @@
-[{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"-1","model_name":"activity_external","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dev_readonly_main_apk.apk","md5":"0c62bd8e82f4d82d0ef182477a2b8af7","ext":"","grey":"100"}, {"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"-1","model_name":"extended","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dynamic_home_apk.apk","md5":"0c62bd8e82f4d82d0ef182477a2b8af7","ext":"","grey":"100"},
+[
+
+
+{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"-1","model_name":"activity_external","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dev_readonly_main_apk.apk","md5":"0c62bd8e82f4d82d0ef182477a2b8af7","ext":"","grey":"100"}, 
+
+
+
+{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"-1","model_name":"extended","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dynamic_home_apk.apk","md5":"0c62bd8e82f4d82d0ef182477a2b8af7","ext":"","grey":"100"},
+
+
+
 {"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"1","model_name":"net","class_name":"com.sina.weibo.net.NetEngine","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/private","md5":"9d0805b81a60eb3ee355a88c58f2e164","ext":"","grey":"100"}]
