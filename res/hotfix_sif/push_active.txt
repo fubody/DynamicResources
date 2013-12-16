@@ -1,13 +1,4 @@
 [
 
-
-{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"1","model_name":"activity_home","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dev_readonly_main_apk.apk","md5":"2576dd72f70f9d009396b1767fcff03e","ext":"","grey":"100"}, 
-
-{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"1","model_name":"activity_message","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dev_readonly_main_apk.apk","md5":"3419ebb9f2d3ef94eedd4c67dd9865f2","ext":"","grey":"100"}, 
-
-{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"1","model_name":"activity_userinfo","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dev_readonly_main_apk.apk","md5":"287c0d61ed934ff34483af37393e6d17","ext":"","grey":"100"}, 
-
-{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"1","model_name":"activity_search","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dev_readonly_main_apk.apk","md5":"c361d1800a0e57357759d41146edc38c","ext":"","grey":"100"}, 
-
-{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"1","model_name":"activity_more","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dev_readonly_main_apk.apk","md5":"9fc2bf06bebe5fe779b70fd0546d7d9e","ext":"","grey":"100"}, 
+{"desc":"\u754c\u9762\u4e0b\u8f7d_\u6d4b\u8bd5","from":"1041095010","version_code":"650","patch_info":"","patch_code":"1","model_name":"activity_message","class_name":"com.sina.weibo.HomeListActivity","package_name":"com.sina.weibo","download_url":"https://raw.github.com/fubody/DynamicResources/master/res/hotfix_sif/raw/Weibo_dev_readonly_main_apk.apk","md5":"404add37c8969f765f1df737f226782e","ext":"","grey":"100"}
 ]
