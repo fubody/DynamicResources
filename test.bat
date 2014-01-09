@@ -1,5 +1,3 @@
-D:
-cd D:\develop\github\DynamicResources
-"C:\Program Files (x86)\Git\bin\git" add .
-"C:\Program Files (x86)\Git\bin\git" commit -m "modify"
-"C:\Program Files (x86)\Git\bin\git" push git@github.com:fubody/DynamicResources.git
+git add .
+git commit -m "modify"
+git push git@github.com:fubody/DynamicResources.git
